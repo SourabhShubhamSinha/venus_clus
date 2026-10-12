@@ -1,0 +1,7 @@
+,Region,Scale,ARI_vs_60km,Compared_cells,Coverage_percent
+0,Alpha Regio,40 km,0.7293909778463409,1722,99.65277777777779
+1,Alpha Regio,60 km,1.0,1728,100.0
+2,Alpha Regio,80 km,0.6808170135282647,1707,98.78472222222221
+3,Themis Regio,40 km,0.6844718660249257,651,100.0
+4,Themis Regio,60 km,1.0,651,100.0
+5,Themis Regio,80 km,0.32425093649610476,651,100.0
